@@ -1,0 +1,24 @@
+h1{
+    color: red;
+    font-size: 200px;
+}
+/*
+img{
+    background-color: red;
+}
+*/
+.bacon{
+    background-color: green;
+}
+.broccoli{
+    background-color: red; /* a particular class can be used as many times as needed. one or more classes can be used */
+}
+.circular{
+    border-radius: 100%;
+}
+#heading{
+    color: blue; /* a particular id can only be used once. no more than one id can be used */
+}
+#big{
+    font-size: 1000px;;
+}
